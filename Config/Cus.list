@@ -31,6 +31,9 @@ DOMAIN-SUFFIX,lowes.com
 DOMAIN-SUFFIX,funletu.com
 DOMAIN-SUFFIX,yunso.net
 DOMAIN-SUFFIX,testflight.apple.com
+DOMAIN-SUFFIX,ess.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,captive.apple.com
 
 # === AI Rules ===
 # > Ai general rules
