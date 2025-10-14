@@ -1,6 +1,4 @@
 # Mylist
-DOMAIN-SUFFIX,funletu.com
-DOMAIN-SUFFIX,yunso.net
 DOMAIN-SUFFIX,dhl.com
 DOMAIN-SUFFIX,fedex.com
 DOMAIN-SUFFIX,ups.com
@@ -30,6 +28,8 @@ DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,acehardware.com
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,lowes.com
+DOMAIN-SUFFIX,funletu.com
+DOMAIN-SUFFIX,yunso.net
 
 # === AI Rules ===
 # > Ai general rules
