@@ -310,7 +310,7 @@ DOMAIN-SUFFIX,hxb.com
 DOMAIN-SUFFIX,pingan.com
 DOMAIN-SUFFIX,citicbank.com
 DOMAIN-SUFFIX,cgbchina.com.cn
-DOMAIN-SUFFIX,hsbank.com.cn
+DOMAIN-SUFFIX,hsbank.com
 DOMAIN-SUFFIX,psbc.com
 DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,unionpaysecure.com
@@ -395,8 +395,6 @@ DOMAIN-SUFFIX,yunjiasu-cdn.net
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,bigfun.cn
-DOMAIN-SUFFIX,bigfunapp.cn
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
@@ -405,7 +403,6 @@ DOMAIN-SUFFIX,biliintl.co
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 
@@ -428,7 +425,6 @@ DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinvod.com
-DOMAIN-SUFFIX,feelgood.cn
 DOMAIN-SUFFIX,feiliao.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,huoshan.com
@@ -461,22 +457,15 @@ DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.com
 
 # ChinaOneKeyLogin
-DOMAIN,auth.wosms.cn
 DOMAIN,config.cmpassport.com
 DOMAIN,enrichgw.10010.com
-DOMAIN,hmrz.wo.cn
-DOMAIN,id.mail.wo.cn
 DOMAIN,log.cmpassport.com
 DOMAIN,log1.cmpassport.com
-DOMAIN,mdn.open.wo.cn
 DOMAIN,nishub1.10010.com
-DOMAIN,opencloud.wostore.cn
 DOMAIN,ye.dun.163yun.com
-DOMAIN-SUFFIX,auth.wo.cn
 DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,id6.me
 DOMAIN-SUFFIX,mob.com
-DOMAIN-SUFFIX,open.e.189.cn
 
 # DiDi
 DOMAIN-SUFFIX,didialift.com
@@ -488,7 +477,6 @@ DOMAIN-SUFFIX,bytefcdnrd.com
 DOMAIN-SUFFIX,edgesrv.com
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyu.tv
-DOMAIN-SUFFIX,douyucdn.cn
 DOMAIN-SUFFIX,douyuscdn.com
 DOMAIN-SUFFIX,douyutv.com
 
@@ -607,16 +595,10 @@ DOMAIN-SUFFIX,yangkeduo.com
 DOMAIN-SUFFIX,leju.com
 DOMAIN-SUFFIX,miaopai.com
 DOMAIN-SUFFIX,sina.com
-DOMAIN-SUFFIX,sina.com.cn
-DOMAIN-SUFFIX,sina.cn
 DOMAIN-SUFFIX,sinaapp.com
-DOMAIN-SUFFIX,sinaapp.cn
 DOMAIN-SUFFIX,sinaimg.com
-DOMAIN-SUFFIX,sinaimg.cn
 DOMAIN-SUFFIX,weibo.com
-DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibocdn.com
-DOMAIN-SUFFIX,weibocdn.cn
 DOMAIN-SUFFIX,xiaoka.tv
 
 # Sohu Sogo
@@ -643,8 +625,6 @@ DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,steamchina.com
-DOMAIN,csgo.wmsj.cn
-DOMAIN,dota2.wmsj.cn
 DOMAIN,wmsjsteam.com
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,dl.steam.ksyna.com
@@ -693,8 +673,6 @@ DOMAIN,wx.tenpay.com
 DOMAIN-SUFFIX,iot-tencent.com
 DOMAIN-SUFFIX,lbs.gtimg.com
 DOMAIN-SUFFIX,map.qq.com
-DOMAIN-SUFFIX,qlogo.cn
-DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,up-hl.3g.qq.com
@@ -738,17 +716,6 @@ DOMAIN-SUFFIX,p2cdn.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,xunlei.com
-
-# TeamViewer
-DOMAIN-SUFFIX,teamviewer.com
-IP-CIDR,139.220.243.27/32,no-resolve
-IP-CIDR,172.16.102.56/32,no-resolve
-IP-CIDR,185.188.32.1/28,no-resolve
-IP-CIDR,221.226.128.146/32,no-resolve
-IP-CIDR6,2a0b:b580::/48,no-resolve
-IP-CIDR6,2a0b:b581::/48,no-resolve
-IP-CIDR6,2a0b:b582::/48,no-resolve
-IP-CIDR6,2a0b:b583::/48,no-resolve
 
 # Public Direct CDN
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
