@@ -241,14 +241,12 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
-DOMAIN-SUFFIX,chinamobile.com.cn
-DOMAIN-SUFFIX,chinaunicom.cn
-DOMAIN-SUFFIX,chinatelecom.com.cn
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,chinaunicom
+DOMAIN-SUFFIX,chinatelecom.com
 DOMAIN-SUFFIX,cmcc.net
 DOMAIN-SUFFIX,telecomcn.com
-DOMAIN-SUFFIX,189.cn
 DOMAIN-SUFFIX,10010.com
-DOMAIN-SUFFIX,10086.cn
 
 # 路由器管理
 DOMAIN-SUFFIX,asusrouter.com
@@ -309,7 +307,7 @@ DOMAIN-SUFFIX,cebbank.com
 DOMAIN-SUFFIX,hxb.com
 DOMAIN-SUFFIX,pingan.com
 DOMAIN-SUFFIX,citicbank.com
-DOMAIN-SUFFIX,cgbchina.com.cn
+DOMAIN-SUFFIX,cgbchina.com
 DOMAIN-SUFFIX,hsbank.com
 DOMAIN-SUFFIX,psbc.com
 DOMAIN-SUFFIX,unionpay.com
@@ -731,7 +729,6 @@ DOMAIN-SUFFIX,upaiyun.com
 # China DNS
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,dns.alidns.com
-DOMAIN-SUFFIX,doh.360.cn
 IP-CIDR,1.12.12.12/32,no-resolve
 
 # Microsoft Services
