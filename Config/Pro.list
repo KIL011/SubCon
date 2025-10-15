@@ -116,6 +116,3 @@ DOMAIN-SUFFIX,edge-mqtt.facebook.com
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikibooks.org
-
-# Zoom
-DOMAIN-SUFFIX,zoom.us
