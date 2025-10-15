@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,ipinfo.co
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ipwho.is
 DOMAIN-SUFFIX,ident.me
+DOMAIN-SUFFIX,speedtest.net
 
 # > Netflix
 DOMAIN-SUFFIX,netflix.com
