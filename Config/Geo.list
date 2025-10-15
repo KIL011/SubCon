@@ -1,4 +1,4 @@
-Geoip,CN,DIRECT
-Geoip,US,美国
-Geoip,CA,美国
-Geoip,HK,线路
+GEOIP,CN,DIRECT
+GEOIP,US,美国
+GEOIP,CA,美国
+GEOIP,HK,线路
