@@ -2,13 +2,3 @@ GEOIP,CN,DIRECT
 GEOIP,US,美国
 GEOIP,CA,美国
 GEOIP,HK,线路
-
-#ruleset=DIRECT,[]GEOIP,CN
-#ruleset=美国,[]GEOIP,US
-#ruleset=美国,[]GEOIP,CA
-#ruleset=线路,[]GEOIP,HK
-
-#- GEOIP,CN,DIRECT
-#- GEOIP,US,美国
-#- GEOIP,CA,美国
-#- GEOIP,HK,线路
