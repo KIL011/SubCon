@@ -4,6 +4,13 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,api.myip.com
+DOMAIN-SUFFIX,api.myip.sb
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ipinfo.co
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ipwho.is
+DOMAIN-SUFFIX,ident.me
 
 # > Netflix
 DOMAIN-SUFFIX,netflix.com
