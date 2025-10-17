@@ -7,7 +7,12 @@ DOMAIN-SUFFIX,yunso.net
 DOMAIN-SUFFIX,testflight.apple.com
 DOMAIN-SUFFIX,ess.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN-SUFFIX,captive.apple.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,tv.apple.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,news-assets.apple.com
 
 # === Retailers USA ===
 ## 家具装饰
