@@ -15,6 +15,8 @@ DOMAIN-SUFFIX,news-assets.apple.com
 DOMAIN-SUFFIX,funletu.com
 DOMAIN-SUFFIX,yunso.net
 DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,us
+DOMAIN-SUFFIX,ca
 
 # === Retailers USA ===
 ## 家具装饰
@@ -142,6 +144,3 @@ DOMAIN-SUFFIX,poecdn.net
 ## XAI/Grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
-
-DOMAIN-SUFFIX,us
-DOMAIN-SUFFIX,ca
