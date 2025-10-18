@@ -1,3 +1,9 @@
+# CN域名直连(中国|公司|网络)
+DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,xn--fiqs8s
+DOMAIN-SUFFIX,xn--55qx5d
+DOMAIN-SUFFIX,xn--io0a7i
+
 # MyList
 DOMAIN-SUFFIX,api.wcc.best
 DOMAIN-SUFFIX,gitee.com
@@ -291,12 +297,6 @@ DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
 DOMAIN-SUFFIX,toolbarqueries.google.com
 DOMAIN-SUFFIX,tools.google.com
 DOMAIN-SUFFIX,www-googletagmanager.l.google.com
-
-# CN域名直连(中国|公司|网络)
-DOMAIN-SUFFIX,cn
-DOMAIN-SUFFIX,xn--fiqs8s
-DOMAIN-SUFFIX,xn--55qx5d
-DOMAIN-SUFFIX,xn--io0a7i
 
 #Bank
 DOMAIN-SUFFIX,abchina.com
