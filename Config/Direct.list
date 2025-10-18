@@ -1,5 +1,6 @@
-# CN域名直连(中国|公司|网络)
+# CN/VN域名直连
 DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,vn
 DOMAIN-SUFFIX,xn--fiqs8s
 DOMAIN-SUFFIX,xn--55qx5d
 DOMAIN-SUFFIX,xn--io0a7i
