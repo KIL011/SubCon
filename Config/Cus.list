@@ -5,8 +5,6 @@ DOMAIN-SUFFIX,maersk.io
 DOMAIN-SUFFIX,dhl.com
 DOMAIN-SUFFIX,fedex.com
 DOMAIN-SUFFIX,ups.com
-DOMAIN-SUFFIX,funletu.com
-DOMAIN-SUFFIX,yunso.net
 DOMAIN-SUFFIX,testflight.apple.com
 DOMAIN-SUFFIX,ess.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
@@ -14,6 +12,9 @@ DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,tv.apple.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,news-assets.apple.com
+DOMAIN-SUFFIX,funletu.com
+DOMAIN-SUFFIX,yunso.net
+DOMAIN-SUFFIX,reddit.com
 
 # === Retailers USA ===
 ## 家具装饰
