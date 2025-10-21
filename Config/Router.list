@@ -106,7 +106,7 @@ DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,www.googleapis.com
 DOMAIN-SUFFIX,ssl.gstatic.com
 DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,lh3.googleusercontent.com
+DOMAIN-SUFFIX,googleusercontent.com
 
 # Instagram
 DOMAIN-SUFFIX,instagram.com
