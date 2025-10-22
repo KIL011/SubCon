@@ -283,7 +283,6 @@ IP-CIDR6,fe80::/10,no-resolve
 
 #谷歌CN
 DOMAIN-SUFFIX,mtalk.google.com
-DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,cache.pack.google.com
 DOMAIN-SUFFIX,clickserve.dartsearch.net
 DOMAIN-SUFFIX,crl.pki.goog
