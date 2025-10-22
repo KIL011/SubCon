@@ -1,6 +1,7 @@
 # US/CA域名
 DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,ca
+DOMAIN-SUFFIX,mx
 
 # Mylist
 DOMAIN-SUFFIX,maerskline.com
