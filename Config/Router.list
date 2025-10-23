@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,speedtest.net
 
 # IP Detection
+DOMAIN-SUFFIX,whatismyipaddress.com
 DOMAIN-SUFFIX,api.myip.com
 DOMAIN-SUFFIX,api.myip.sb
 DOMAIN-SUFFIX,ipinfo.io
