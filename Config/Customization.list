@@ -1,8 +1,3 @@
-# US/CA域名
-DOMAIN-SUFFIX,US
-DOMAIN-SUFFIX,CA
-DOMAIN-SUFFIX,MX
-
 # Mylist
 DOMAIN-SUFFIX,maerskline.com
 DOMAIN-SUFFIX,maersk.com
@@ -23,6 +18,11 @@ DOMAIN-SUFFIX,yunso.net
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,tello.com
 DOMAIN-SUFFIX,paypal.com
+
+# US/CA域名
+DOMAIN-SUFFIX,US
+DOMAIN-SUFFIX,CA
+DOMAIN-SUFFIX,MX
 
 # === Retailers USA ===
 ## 家具装饰
