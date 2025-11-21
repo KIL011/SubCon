@@ -2,9 +2,9 @@
 DOMAIN-SUFFIX,boki.moe
 DOMAIN-SUFFIX,gs1.gov.vn
 DOMAIN-SUFFIX,gs1.org
-DOMAIN-SUFFIX,suo.yt
-DOMAIN-SUFFIX,api.wcc.best
-DOMAIN-SUFFIX,sub.xeton.dev
+#DOMAIN-SUFFIX,suo.yt
+#DOMAIN-SUFFIX,api.wcc.best
+#DOMAIN-SUFFIX,sub.xeton.dev
 DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,fumamx.com
 DOMAIN-SUFFIX,trustutn.org
